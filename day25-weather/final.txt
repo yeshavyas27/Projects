@@ -1,0 +1,4 @@
+,primary_color,amount_squirrels
+0,Cinnamon,392
+1,Gray,2473
+2,Black,103
